@@ -1,0 +1,84 @@
+/* GERAL */
+.main{
+  font-size: 20px;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+  transition: 1s;
+}
+
+/* EXPERIENCIA PROSIFISSIONAL */
+
+.banner{
+  background-image: url(imagens/tyniec.jpg);
+  padding: 220px 0px;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  color: white;
+  font-size: 70px;
+  margin-bottom: 20px;
+  margin-top: 300px;
+  
+}
+.banner h3 {
+  color: white;
+}
+
+
+
+/* SOBRE */
+.fotoperfil{
+  background-image: url(imagens/azulejos.jpg);
+  padding: 220px 0px;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  
+}
+
+.fotoperfil h1{
+  font-size: 70px;
+}
+
+
+/* PROGRAMACAO */
+
+
+
+.fotoprogramacao{
+  background-image: url(imagens/programacao.jpg);
+  padding: 220px 0px;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  
+}
+
+.fotoprogramacao h1{
+  font-size: 70px;
+}
+
+
+/* FORMAÇAO ACADEMICA */
+
+.Video {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  height: auto
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
