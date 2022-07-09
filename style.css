@@ -6,6 +6,15 @@
   border-radius: 5px;
 }
 
+.link{
+  text-decoration: none;
+  color: #0000EE;
+}
+.link:hover{
+  text-decoration: underline;
+}
+
+
 /* EXPERIENCIA PROFISSIONAL */
 
 .banner{
